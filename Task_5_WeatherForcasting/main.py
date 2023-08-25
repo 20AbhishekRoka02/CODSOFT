@@ -9,7 +9,7 @@ class Weather():
 
     def __init__(self):
         """storing API key as private class variable."""
-        self.__api_key = "ae0ccf74a7053380acd6867bc091d133"
+        self.__api_key = "<API-KEY>"
     
     def get_private_key(self):
         """Method to get private key (here, API key)"""
