@@ -13,4 +13,4 @@
 - GUI basically ask you to write your city name, and press the Search Button 🔘
 - It will forecast your weather with description, temperature and Humidity.
 
-## Preview
+Preview is <a href="https://www.linkedin.com/posts/abhishek-roka-bbb2b3232_hi-connections-today-i-am-here-to-showcase-activity-7101570221039087618-b3hH?utm_source=share&utm_medium=member_desktop">here</a>.
