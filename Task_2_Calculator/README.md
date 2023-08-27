@@ -2,7 +2,8 @@
 Hi, developers! This is my Calcultor GUI project written with Tkinter Python.
 </p>
 <p>
-  Following is a preview video of my work project.
+  Preview is <a href="https://www.linkedin.com/posts/abhishek-roka-bbb2b3232_codsoft-codsoftinternship-activity-7100839852140589056-vE_X?utm_source=share&utm_medium=member_desktop
+">here</a>.  
 </p>
 
 <p>
